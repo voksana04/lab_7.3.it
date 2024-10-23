@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Project_7.3_it\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54C6821B-A827-4378-ADA9-1BED85A8DE8C}|Project_7.3_it\\Project_7.3_it.vcxproj|C:\\Users\\admin\\source\\repos\\Project_7.3_it\\Project_7.3_it\\lab_7.3_it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54C6821B-A827-4378-ADA9-1BED85A8DE8C}|Project_7.3_it\\Project_7.3_it.vcxproj|solutionrelative:Project_7.3_it\\lab_7.3_it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58094248-7C10-4EF0-9693-615DE27AD87F}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\admin\\source\\repos\\Project_7.3_it\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58094248-7C10-4EF0-9693-615DE27AD87F}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Project_7.3_it\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Project_7.3_it\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T16:52:33.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab_7.3_it.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Project_7.3_it\\Project_7.3_it\\lab_7.3_it.cpp",
+              "RelativeDocumentMoniker": "Project_7.3_it\\lab_7.3_it.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Project_7.3_it\\Project_7.3_it\\lab_7.3_it.cpp",
+              "RelativeToolTip": "Project_7.3_it\\lab_7.3_it.cpp",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAYwHwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T16:17:45.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
